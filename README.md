@@ -11,9 +11,9 @@ As a **SysOps or SysAdmin Engineer**, you are tasked with onboarding new enginee
 - Execute the file by running `chmod +x create_users.sh`
 - Assemble the input file which is the argument, formatted this way as shown below: usernames are differentiated by a semicolon, and groups are differentiated by a comma
 ```txt
-alice; admin,dev,qa
-bob; prod
-carol; test,dev,prod
+adebare; admin,dev,qa
+bolade; prod
+chibuzor; test,dev,prod
 tunde; pilot,prod,test,dev
 tade; pilot,dev
 ```
